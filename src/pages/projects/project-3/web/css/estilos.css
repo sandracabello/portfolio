@@ -1,0 +1,207 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+button:focus,
+input:focus {
+    outline: 0;
+    box-shadow: none !important;
+    border-color: #fec868 !important;
+}
+
+.btn {
+    border-radius: 50rem;
+}
+
+.btn-primary {
+     background-color: #f5862d;
+     color: #ffffff;
+     border: none;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active
+.btn-primary:focus,
+.btn-primary.focus {
+    background-color: #fec868 !important;    
+}
+
+.btn-primary.disabled, 
+.btn-primary:disabled {
+    background-color: gray !important;
+    color: #000000 !important;
+    cursor: default !important;
+}
+
+a {
+    color: #f5862d;
+}
+
+a:hover,
+a:active,
+a.active
+a:focus,
+a.focus {
+    color: #fec868; 
+    cursor: pointer;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    width: 100%;
+    z-index: 1;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+}
+
+.navbar a {
+    color: #000000;
+}
+
+.navbar a:not(.navbar-brand):hover,
+.navbar a:not(.navbar-brand):active,
+.navbar a:not(.navbar-brand).active
+.navbar a:not(.navbar-brand):focus,
+.navbar a:not(.navbar-brand).focus {
+    color: #fec868; 
+}
+
+.navbar .nav-item.active {
+    color: #f5862d; 
+}
+
+.navbar .navbar-toggler {
+    background-color: #f5862d;
+}
+
+.navbar .navbar-toggler:hover {
+    background-color: #fec868;
+}
+
+header .jumbotron {
+    border-radius: 0;
+    background-color: #fef5e1;
+    margin-top: 2rem;
+    background: url('../images/fondo.jpg') no-repeat center center fixed; 
+    background-size: cover;
+}
+
+header .jumbotron .content {
+    background-color: rgba(254, 245, 225, 0.8);    
+    width: 100%;
+    padding: 1rem;    
+    border-radius: 3px;
+}
+
+header .jumbotron .redes-sociales img {
+    width: 1.4rem;
+    margin: 0.2rem;
+}
+
+nav .boton-movil {
+    background-color: #e9ecef;
+}
+
+section {
+    margin: 1.5rem 0;
+    padding: 2rem 0;
+}
+
+section .titulo-section {
+    margin: 2rem 0;
+}
+
+#metodologia .metodo .head {
+    margin-bottom: 0.5rem;
+    display: flex;    
+    align-items: center;
+}
+
+#metodologia .metodo .head img {
+    width: 3rem;
+    height: auto;
+    margin-right: 1rem;
+}
+
+#metodologia .metodo .body {
+    margin-top: 1.5rem;
+}
+
+#precios .card {
+    border: none;
+}
+
+#precios .card.suficiente,
+#precios .card.suficiente .list-group .list-group-item { 
+    background-color: #e8f0f8;
+}
+
+#precios .card.notable,
+#precios .card.notable .list-group .list-group-item {
+    background-color: #e8f8f8;
+}
+
+#precios .card.sobresaliente,
+#precios .card.sobresaliente .list-group .list-group-item {
+    background-color: #edfbee;
+}
+
+#precios .card .card-footer {
+    text-align: right;
+}
+
+#precios .card .card-footer .dinero {
+    color: #fff;
+    display: inline-block;
+    border-radius: 3px;
+    margin: 0 auto;
+    padding: 0.3rem 1rem;
+}
+
+#precios .card.suficiente .card-footer .dinero {
+    background-color: #7f9cd2;
+}
+
+#precios .card.notable .card-footer .dinero {
+    background-color: #7fd2d1;
+}
+
+#precios .card.sobresaliente .card-footer .dinero {
+    background-color: #a6d27f;
+    color: #ffffff;
+}
+
+
+#precios .card img {
+    width: 5rem;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#precios .card .card-title {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: #fef5e1;
+    margin-top: 5rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+@media (max-width: 767.98px) { 
+
+    #precios .card {
+        margin: 1rem 0;
+    }
+    
+}

@@ -1,0 +1,28 @@
+---
+import '../styles/global.css';
+import NavBar from '../componentes/NavBar.astro';
+import Header from '../componentes/Header.astro';
+import Card from '../componentes/Card.astro';
+import Footer from '../componentes/Footer.astro';
+
+const { pageTitle, items } = Astro.props;
+---
+
+<html lang="es" data-theme="lofi">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{pageTitle}</title>
+	</head>
+	<body>
+		<NavBar />
+		<Header />
+		<section id="projects" class="cards m-6 flex flex-col gap-44 mt-16 mb-16">
+			{items.map((item) => <Card url={item.url} item={item} />)}
+		</section>
+		<slot />
+		<Footer />
+	</body>
+</html>

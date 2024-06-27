@@ -1,0 +1,29 @@
+---
+import '../styles/global.css';
+import NavBar from '../componentes/NavBar.astro';
+import Footer from '../componentes/Footer.astro';
+
+const pageTitle = 'Proyectos';
+---
+
+<html lang="es" data-theme="lofi">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{pageTitle}</title>
+	</head>
+	<body>
+		<NavBar />
+		<section class="markdown w-full md:w-5/6 m-auto">
+        	<slot />
+		</section>
+		<Footer />
+	</body>
+</html>
+<style scoped>
+	.markdown {
+		padding: 6rem 3rem 3rem;
+	}
+</style>

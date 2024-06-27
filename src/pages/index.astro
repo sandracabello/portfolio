@@ -1,0 +1,8 @@
+---
+import LayoutHome from '../layouts/LayoutHome.astro'
+
+const pageTitle = 'Home'
+const projects = await Astro.glob('../pages/projects/**/*.md')
+---
+
+<LayoutHome pageTitle={pageTitle} items={projects}>
