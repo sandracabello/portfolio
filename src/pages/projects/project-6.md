@@ -13,7 +13,7 @@ El sitio web del Ilustre Colegio de Procuradores de Antequera está diseñado pa
 
 <a class="border-b-2 border-black border-bottom" href="https://www.colegioprocuradoresantequera.es" target="_blank">Accede a la web</a>
 
-<img class="img-h" src="/projects/project-6/home.png" alt="Sitio web" />
+<img class="img-h" src="/portfolio/projects/project-6/home.png" alt="Sitio web" />
 
 **COMPONENTES CLAVES**
 

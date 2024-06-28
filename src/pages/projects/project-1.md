@@ -20,11 +20,11 @@ El prototipo abarca varias secciones clave, proporcionando una visión integral 
 El prototipo está diseñado para ofrecer una navegación intuitiva y una experiencia visual atractiva, alineándose con los valores y la estética de la Agrupación Fotográfica Antequerana.
 
 ## HOME
-![Página principal](/projects/project-1/home.jpg)
+![Página principal](/portfolio/projects/project-1/home.jpg)
 
 ## LISTA DE EXPOSICINES
-![Lista de exposiciones](/projects/project-1/expositions.jpg)
+![Lista de exposiciones](/portfolio/projects/project-1/expositions.jpg)
 
 ## DETALLE EXPOSICIÓN
-![Detalle de una exposición](/projects/project-1/details.jpg)
+![Detalle de una exposición](/portfolio/projects/project-1/details.jpg)
 

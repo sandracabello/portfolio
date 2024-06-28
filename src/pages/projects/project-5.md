@@ -14,10 +14,10 @@ El sitio web para Psicólogo en Antequera es una plataforma diseñada para propo
 <a class="border-b-2 border-black border-bottom" href="https://www.psicologosantequera.com/" target="_blank">Accede a la web</a>
 
 ## HOME DESKTOP
-![imagen](/projects/project-5/desktop.png)
+![imagen](/portfolio/projects/project-5/desktop.png)
 
 ## HOME MOBILE
-![imagen](/projects/project-5/mobile.png)
+![imagen](/portfolio/projects/project-5/mobile.png)
 
 **COMPONENTES PRINCIPALES**
 

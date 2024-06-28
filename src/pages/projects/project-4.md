@@ -12,10 +12,10 @@ poster: 'poster.jpg'
 La plantilla web para hamburguesería es una página única diseñada para ofrecer una experiencia completa y atractiva a los visitantes, destacando los productos y la identidad de la hamburguesería de manera efectiva.
 
 ## HOME DESKTOP
-![imagen](/projects/project-4/pc.png)
+![imagen](/portfolio/projects/project-4/pc.png)
 
 ## HOME MOBILE
-![imagen](/projects/project-4/mobile.png)
+![imagen](/portfolio/projects/project-4/mobile.png)
 
 **COMPONENTES CLAVES**
 

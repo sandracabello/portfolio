@@ -11,10 +11,10 @@ poster: 'poster.jpg'
 La plantilla de clases particulares para profesores es una web diseñada para facilitar la conexión entre estudiantes y educadores, ofreciendo un enfoque personalizado y efectivo para el aprendizaje.
 
 ## HOME DESKTOP
-![imagen](/projects/project-3/home.png)
+![imagen](/portfolio/projects/project-3/home.png)
 
 ## HOME MOBILE
-![imagen](/projects/project-3/mobile.png)
+![imagen](/portfolio/projects/project-3/mobile.png)
 
 **COMPONENTES PRINCIPALES**
 

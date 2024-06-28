@@ -11,7 +11,7 @@ poster: 'poster.jpg'
 
 El proyecto "Atleta X" se enfoca en la creación de una plataforma integral para los entusiastas y competidores de la disciplina deportiva Hyrox, compuesta por un blog y una aplicación móvil.
 ## FIGMA
-![imagen](/projects/project-2/all.jpg)
+![imagen](/portfolio/projects/project-2/all.jpg)
 
 **COMPONENTES DEL PROYECTO**
 
@@ -20,22 +20,22 @@ El proyecto "Atleta X" se enfoca en la creación de una plataforma integral para
    - **Home**: La página de inicio muestra un resumen de los últimos post, destacando las publicaciones más recientes y populares para mantener a los usuarios informados sobre las novedades y tendencias en Hyrox.
 
     ## HOME DESKTOP
-   ![imagen](/projects/project-2/web-home-desktop.jpg)
+   ![imagen](/portfolio/projects/project-2/web-home-desktop.jpg)
     ## HOME MOBILE
-   ![imagen](/projects/project-2/web-home-mobile.jpg)
+   ![imagen](/portfolio/projects/project-2/web-home-mobile.jpg)
    ## POST
-   ![imagen](/projects/project-2/web-blog.jpg)
+   ![imagen](/portfolio/projects/project-2/web-blog.jpg)
 
 2. **App "Atleta X":**
    - **Centros Deportivos**: La aplicación permite a los usuarios localizar centros deportivos especializados en entrenar competidores para las pruebas de Hyrox. La app incluye características como búsqueda por ubicación, reseñas de usuarios, y detalles de contacto de cada centro.
    - **Entrenamiento y Eventos**: Además de encontrar centros deportivos, la app proporciona información sobre programas de entrenamiento, eventos, y competiciones Hyrox, permitiendo a los usuarios inscribirse y participar fácilmente.
 
     ## FORMULARIO DE ACCESO
-    ![imagen](/projects/project-2/app-login.jpg)
+    ![imagen](/portfolio/projects/project-2/app-login.jpg)
     ##  FORMULARIO DE REGISTRO
-    ![imagen](/projects/project-2/app-register.jpg)
+    ![imagen](/portfolio/projects/project-2/app-register.jpg)
     ## BUSCADOR DE CENTROS DEPORTIVOS
-    ![imagen](/projects/project-2/app-home.jpg)
+    ![imagen](/portfolio/projects/project-2/app-home.jpg)
 
 **OBJETIVOS DEL PROYECTO**
 

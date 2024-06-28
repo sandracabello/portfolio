@@ -11,10 +11,10 @@ poster: 'poster.jpg'
 
 Este proyecto se centra en el desarrollo de un sistema integral para el registro de jornada laboral de trabajadores de oficina, tanto en modalidad presencial como en remoto.
 
-<img class="img-h" src="/projects/project-8/register3.png" alt="Registro de jornada" />
-<img class="img-h" src="/projects/project-8/register4.png" alt="Registro de jornada" />
-<img class="img-h" src="/projects/project-8/register1.png" alt="Registro de jornada" />
-<img class="img-h" src="/projects/project-8/register2.png" alt="Registro de jornada" />
+<img class="img-h" src="/portfolio/projects/project-8/register3.png" alt="Registro de jornada" />
+<img class="img-h" src="/portfolio/projects/project-8/register4.png" alt="Registro de jornada" />
+<img class="img-h" src="/portfolio/projects/project-8/register1.png" alt="Registro de jornada" />
+<img class="img-h" src="/portfolio/projects/project-8/register2.png" alt="Registro de jornada" />
 
 
 
