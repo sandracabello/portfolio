@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/LayoutProject.astro
+layout: ../../layouts/LayoutProject.astro
 title: 'Plantilla Web para Hamburguesería'
 description: 'La plantilla web para hamburguesería es una página única diseñada para ofrecer una experiencia completa y atractiva a los visitantes, destacando los productos y la identidad de la hamburguesería de manera efectiva.'
 poster: 'poster.jpg'
@@ -12,10 +12,10 @@ poster: 'poster.jpg'
 La plantilla web para hamburguesería es una página única diseñada para ofrecer una experiencia completa y atractiva a los visitantes, destacando los productos y la identidad de la hamburguesería de manera efectiva.
 
 ## HOME DESKTOP
-![imagen](/src/pages/projects/project-4/pc.png)
+![imagen](/projects/project-4/pc.png)
 
 ## HOME MOBILE
-![imagen](/src/pages/projects/project-4/mobile.png)
+![imagen](/projects/project-4/mobile.png)
 
 **COMPONENTES CLAVES**
 

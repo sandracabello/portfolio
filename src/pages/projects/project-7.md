@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/LayoutProject.astro
+layout: ../../layouts/LayoutProject.astro
 title: 'Sitema de diseño para contenidos formativos'
 description: 'Este proyecto se centra en el desarrollo de un frontend innovador y eficiente para la presentación de contenidos formativos online, así como en la creación de un conjunto de herramientas que faciliten la gestión y estructuración de los cursos.'
 poster: 'poster.jpg'
@@ -13,14 +13,14 @@ Este proyecto se centra en el desarrollo de un frontend innovador y eficiente pa
 
 ## ALGUNOS EJEMPLOS DEL SISTEMA DE DISEÑO PARA CONTENIDOS FORMATIVOS
 
-<img class="img-h" src="/src/pages/projects/project-7/system1.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/system1.png" alt="Sistema de diseño para contenidos formativos" />
 
-<img class="img-h" src="/src/pages/projects/project-7/system1.png" alt="Sistema de diseño para contenidos formativos" />
-<img class="img-h" src="/src/pages/projects/project-7/system2.png" alt="Sistema de diseño para contenidos formativos" />
-<img class="img-h" src="/src/pages/projects/project-7/system3.png" alt="Sistema de diseño para contenidos formativos" />
-<img class="img-h" src="/src/pages/projects/project-7/system4.png" alt="Sistema de diseño para contenidos formativos" />
-<img class="img-h" src="/src/pages/projects/project-7/p12.png" alt="Sistema de diseño para contenidos formativos" />
-<img class="img-h" src="/src/pages/projects/project-7/p10.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/system1.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/system2.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/system3.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/system4.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/p12.png" alt="Sistema de diseño para contenidos formativos" />
+<img class="img-h" src="/projects/project-7/p10.png" alt="Sistema de diseño para contenidos formativos" />
 
 **COMPONENTES PRINCIPALES**
 
@@ -41,16 +41,16 @@ Este proyecto se centra en el desarrollo de un frontend innovador y eficiente pa
 
 
 ## CONVERSOR DE EJERCICIOS DE TIPO TEST
-<img class="img-h" src="/src/pages/projects/project-7/conversor-test.png" alt="Conversor de ejercicios de tipo test" />
+<img class="img-h" src="/projects/project-7/conversor-test.png" alt="Conversor de ejercicios de tipo test" />
 
 ## CONFIGURADOR DE ESTRUCTURA DEL CONTENIDO
-<img class="img-h" src="/src/pages/projects/project-7/configurador-10.png" alt="Configurador de estructura del contenido" />
+<img class="img-h" src="/projects/project-7/configurador-10.png" alt="Configurador de estructura del contenido" />
 
 ## GENERADOR DE INFORMES
-<img class="img-h" src="/src/pages/projects/project-7/genrador-informes.png" alt="Genrador de informes" />
+<img class="img-h" src="/projects/project-7/genrador-informes.png" alt="Genrador de informes" />
 
 ## REPRODUCTOR DE AUDIO
-<img class="img-h" src="/src/pages/projects/project-7/reproductor.png" alt="Reproductor de audio" />
+<img class="img-h" src="/projects/project-7/reproductor.png" alt="Reproductor de audio" />
 
 **OBJETIVOS DEL PROYECTO**
 

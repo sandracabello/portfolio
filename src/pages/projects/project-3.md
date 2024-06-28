@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/LayoutProject.astro
+layout: ../../layouts/LayoutProject.astro
 title: ' Plantilla de Clases Particulares'
 description: 'La plantilla de clases particulares para profesores es una web diseñada para facilitar la conexión entre estudiantes y educadores, ofreciendo un enfoque personalizado y efectivo para el aprendizaje.'
 poster: 'poster.jpg'
@@ -11,10 +11,10 @@ poster: 'poster.jpg'
 La plantilla de clases particulares para profesores es una web diseñada para facilitar la conexión entre estudiantes y educadores, ofreciendo un enfoque personalizado y efectivo para el aprendizaje.
 
 ## HOME DESKTOP
-![imagen](/src/pages/projects/project-3/home.png)
+![imagen](/projects/project-3/home.png)
 
 ## HOME MOBILE
-![imagen](/src/pages/projects/project-3/mobile.png)
+![imagen](/projects/project-3/mobile.png)
 
 **COMPONENTES PRINCIPALES**
 

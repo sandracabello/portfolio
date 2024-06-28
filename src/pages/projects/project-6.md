@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/LayoutProject.astro
+layout: ../../layouts/LayoutProject.astro
 title: 'Web para el Illustre Colegio de Procuradores de Antequera'
 description: 'El sitio web del Ilustre Colegio de Procuradores de Antequera está diseñado para proporcionar información y servicios a sus miembros y al público en general.'
 poster: 'poster.jpg'
@@ -13,7 +13,7 @@ El sitio web del Ilustre Colegio de Procuradores de Antequera está diseñado pa
 
 <a class="border-b-2 border-black border-bottom" href="https://www.colegioprocuradoresantequera.es" target="_blank">Accede a la web</a>
 
-<img class="img-h" src="/src/pages/projects/project-6/home.png" alt="Sitio web" />
+<img class="img-h" src="/projects/project-6/home.png" alt="Sitio web" />
 
 **COMPONENTES CLAVES**
 

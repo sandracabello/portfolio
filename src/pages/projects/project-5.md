@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/LayoutProject.astro
+layout: ../../layouts/LayoutProject.astro
 title: 'Web Psicóloga'
 description: 'El sitio web para Psicólogo en Antequera es una plataforma diseñada para proporcionar recursos y servicios psicológicos accesibles y confiables a la comunidad local y más allá.'
 poster: 'poster.jpg'
@@ -14,10 +14,10 @@ El sitio web para Psicólogo en Antequera es una plataforma diseñada para propo
 <a class="border-b-2 border-black border-bottom" href="https://www.psicologosantequera.com/" target="_blank">Accede a la web</a>
 
 ## HOME DESKTOP
-![imagen](/src/pages/projects/project-5/desktop.png)
+![imagen](/projects/project-5/desktop.png)
 
 ## HOME MOBILE
-![imagen](/src/pages/projects/project-5/mobile.png)
+![imagen](/projects/project-5/mobile.png)
 
 **COMPONENTES PRINCIPALES**
 
