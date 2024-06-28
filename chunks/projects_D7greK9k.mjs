@@ -1,9 +1,9 @@
 /* empty css                         */
-import { c as createComponent, r as renderTemplate, m as maybeRenderHead, f as createAstro } from './astro/server_DBgNKEsm.mjs';
+import { b as createAstro, c as createComponent, r as renderTemplate, m as maybeRenderHead } from './astro/server_C-ikqLv9.mjs';
 import 'kleur/colors';
 import 'clsx';
 
-const $$Astro = createAstro();
+const $$Astro = createAstro("https://sandracabello.github.io/portfolio/");
 const $$Projects = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Projects;
@@ -12,6 +12,6 @@ const $$Projects = createComponent(async ($$result, $$props, $$slots) => {
 }, "/Users/sandra/Dev/PORTFOLIO/portfolio/src/pages/projects.astro", void 0);
 
 const $$file = "/Users/sandra/Dev/PORTFOLIO/portfolio/src/pages/projects.astro";
-const $$url = "/projects";
+const $$url = "/dist/projects";
 
 export { $$Projects as default, $$file as file, $$url as url };

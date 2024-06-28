@@ -1,10 +1,10 @@
-import { c as createComponent, r as renderTemplate, b as addAttribute, d as renderHead, a as renderComponent, e as renderSlot, f as createAstro } from './astro/server_DBgNKEsm.mjs';
+import { b as createAstro, c as createComponent, r as renderTemplate, d as addAttribute, e as renderHead, a as renderComponent, f as renderSlot } from './astro/server_C-ikqLv9.mjs';
 import 'kleur/colors';
 /* empty css                         */
-import { $ as $$NavBar, a as $$Footer } from './Footer_C9xMy1V5.mjs';
+import { $ as $$NavBar, a as $$Footer } from './Footer_DDha2DTF.mjs';
 /* empty css                           */
 
-const $$Astro = createAstro();
+const $$Astro = createAstro("https://sandracabello.github.io/portfolio/");
 const $$LayoutProject = createComponent(($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$LayoutProject;

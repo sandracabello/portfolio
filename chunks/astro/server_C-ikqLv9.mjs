@@ -185,7 +185,7 @@ function createAstro(site) {
   return {
     // TODO: this is no longer necessary for `Astro.site`
     // but it somehow allows working around caching issues in content collections for some tests
-    site: void 0,
+    site: new URL(site) ,
     generator: `Astro v${ASTRO_VERSION}`,
     glob: createAstroGlobFn()
   };
@@ -1476,4 +1476,4 @@ function normalizeProps(props) {
 "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_".split("").reduce((v, c) => (v[c.charCodeAt(0)] = c, v), []);
 "-0123456789_".split("").reduce((v, c) => (v[c.charCodeAt(0)] = c, v), []);
 
-export { renderComponent as a, addAttribute as b, createComponent as c, renderHead as d, renderSlot as e, createAstro as f, maybeRenderHead as m, renderTemplate as r, unescapeHTML as u };
+export { renderComponent as a, createAstro as b, createComponent as c, addAttribute as d, renderHead as e, renderSlot as f, maybeRenderHead as m, renderTemplate as r, unescapeHTML as u };
