@@ -1,6 +1,0 @@
----
-const  allProjects = await Astro.glob('../content/projects/*.md')
----
-<ul>
-    {allProjects.map((project) => <li>{project.frontmatter.title}</li>)}
-</ul>
