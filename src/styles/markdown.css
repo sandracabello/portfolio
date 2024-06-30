@@ -31,7 +31,12 @@
     .img-h {
         width: 80%;
     }
+
+
+    @media (max-width: 768px) {
+        img,
+        .img-h {
+            width: 100vw
+        }
+    }
 }
-
-
-
