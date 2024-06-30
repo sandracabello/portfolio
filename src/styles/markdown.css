@@ -33,6 +33,13 @@
     }
 
 
+    @media (max-width: 1000px) {
+        img {
+            width: 60vw;
+        }
+
+    }
+
     @media (max-width: 768px) {
         img,
         .img-h {
