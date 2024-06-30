@@ -6,7 +6,7 @@ poster: 'poster.jpg'
 ---
 
 
-# fsdfdfsdfds Proyecto: Prototipo de la Web para la Agrupación Fotográfica Antequerana
+# Proyecto: Prototipo de la Web para la Agrupación Fotográfica Antequerana
 
 Este proyecto consiste en la creación de un prototipo utilizando Figma para el desarrollo de la página web de la Agrupación Fotográfica Antequerana.
 
