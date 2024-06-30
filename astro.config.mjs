@@ -7,5 +7,5 @@ export default defineConfig({
   integrations: [tailwind()],
   site: 'https://sandracabello.github.io/',
   output:'static',
-  base: '/portfolio',
+  base: process.env.PUBLIC_BASE_URL || '/',
 });
