@@ -33,7 +33,7 @@
     }
 
 
-    @media (max-width: 1000px) {
+    @media (min-width: 768px) and (max-width: 1000px) {
         img {
             width: 60vw;
         }
